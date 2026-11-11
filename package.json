@@ -1,6 +1,6 @@
 {
   "name": "matriculas-portuguesas",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "private": true,
   "type": "module",
   "description": "História das matrículas portuguesas (LaTeX) e descodificador interativo / History of Portuguese licence plates (LaTeX) and interactive decoder",
