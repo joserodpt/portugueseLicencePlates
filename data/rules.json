@@ -1,0 +1,44 @@
+{
+  "alphabet": {
+    "classic": "ABCDEFGHIJLMNOPQRSTUVXZ",
+    "kwy": "KWY",
+    "note": {
+      "pt": "K, W e Y não eram usadas (exceto K nas importações de 1997–98). O IMT anunciou que passariam a ser usadas na série de 2020, mas não há confirmação de que já tenham sido emitidas.",
+      "en": "K, W and Y were not used (except K for the 1997–98 imports). IMT announced they would be used in the 2020 series, but there is no confirmation that any have been issued yet."
+    },
+    "source": "ekonomista-kwy"
+  },
+  "banned1937": {
+    "letters": ["Q", "J"],
+    "pairs": ["CU", "FD"],
+    "allowedFrom": 1980,
+    "note": {
+      "pt": "Q e J eram evitadas por se confundirem com O e I; CU e FD foram proibidas por “decência”. Todas passaram a ser usadas no início da década de 1980.",
+      "en": "Q and J were avoided because they look like O and I; CU and FD were banned for “decency”. All of them came into use in the early 1980s."
+    },
+    "source": "pdf-2023"
+  },
+  "vowelRule2020": {
+    "vowels": "AEIOU",
+    "positions": [2, 6],
+    "quote": "não são utilizadas vogais na segunda e sexta posição desses caracteres nas matrículas do novo formato […] Tal não se aplica, quando qualquer dos grupos de duas letras incluir duas vogais iguais.",
+    "note": {
+      "pt": "Não há vogais na 2.ª e 6.ª posição, exceto se algum dos grupos de letras for uma vogal repetida (AA, EE, II, OO, UU).",
+      "en": "No vowels in the 2nd and 6th positions, unless either letter pair is a doubled vowel (AA, EE, II, OO, UU)."
+    },
+    "source": "imt-2020"
+  },
+  "reserved2020": {
+    "plates": ["AA-00-AA"],
+    "firstIssued": { "plate": "AA-01-AA", "date": "2020-03-03" },
+    "source": "imt-2020"
+  },
+  "never1992": {
+    "pairs": ["WA-WZ", "YA-YZ"],
+    "note": {
+      "pt": "Os grupos WA–WZ e YA–YZ foram reservados a veículos importados mas nunca chegaram a ser usados.",
+      "en": "The WA–WZ and YA–YZ groups were reserved for imported vehicles but were never used."
+    },
+    "source": "wikipedia-pt"
+  }
+}

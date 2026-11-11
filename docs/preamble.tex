@@ -1,0 +1,44 @@
+% Shared preamble for historia-pt.tex and history-en.tex (XeTeX via Tectonic).
+% The wrapper defines \doclang (pt|en) before \input{preamble}.
+% Standard article styling throughout; only the cover has its own look.
+\usepackage{fontspec}
+\ifdefstring{\doclang}{pt}{\usepackage[portuguese]{babel}}{\usepackage[british]{babel}}
+
+\usepackage{graphicx}
+\graphicspath{{figures/}}
+\usepackage{booktabs, longtable, array, multicol, needspace}
+\usepackage[hidelinks]{hyperref}
+\usepackage{xurl}
+
+% --- Cover only ---------------------------------------------------------------
+\usepackage{xcolor}
+\definecolor{accent}{HTML}{1F5FB4}
+\newfontfamily\coverfont{texgyreheros}[
+  Extension = .otf,
+  UprightFont = *-regular,
+  BoldFont = *-bold,
+]
+
+% --- Macros -------------------------------------------------------------------
+% A plate number, kept on one line.
+\newcommand{\plate}[1]{\mbox{\textbf{#1}}}
+% A code in the annex tables.
+\newcommand{\code}[1]{\mbox{\texttt{#1}}}
+% Marks an annex table entry the sources do not confirm.
+\newcommand{\unverified}{\textsuperscript{†}}
+% Small photo inside an annex table row.
+\newcommand{\tablephoto}[1]{\raisebox{-0.35\height}{\includegraphics[height=0.75cm]{#1}}}
+% \platefig[width]{file}{caption}
+\newcommand{\platefig}[3][0.45\linewidth]{%
+  \begin{figure}[htbp]\centering\includegraphics[width=#1]{#2}\caption{#3}\end{figure}}
+% Two plates side by side: \platepair{file1}{caption1}{file2}{caption2}
+\newcommand{\platepair}[4]{%
+  \begin{figure}[htbp]\centering
+  \begin{minipage}[b]{0.46\linewidth}\centering\includegraphics[width=\linewidth,height=3.2cm,keepaspectratio]{#1}\caption{#2}\end{minipage}\hfill
+  \begin{minipage}[b]{0.46\linewidth}\centering\includegraphics[width=\linewidth,height=3.2cm,keepaspectratio]{#3}\caption{#4}\end{minipage}
+  \end{figure}}
+
+% Lets lines with long unbreakable plate numbers stretch instead of overflowing.
+\setlength{\emergencystretch}{3em}
+
+\newcommand{\gen}[1]{\input{generated/\doclang/#1}}

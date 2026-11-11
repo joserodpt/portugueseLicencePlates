@@ -1,0 +1,630 @@
+{
+  "statuses": [
+    {
+      "code": "CD",
+      "name": {
+        "pt": "Corpo Diplomático",
+        "en": "Diplomatic Corps"
+      }
+    },
+    {
+      "code": "CC",
+      "name": {
+        "pt": "Corpo Consular",
+        "en": "Consular Corps"
+      }
+    },
+    {
+      "code": "FM",
+      "name": {
+        "pt": "Funcionário em Missão Internacional",
+        "en": "Official on an international mission"
+      }
+    }
+  ],
+  "countries": [
+    {
+      "code": 1,
+      "name": {
+        "pt": "Afeganistão",
+        "en": "Afghanistan"
+      }
+    },
+    {
+      "code": 2,
+      "name": {
+        "pt": "África do Sul",
+        "en": "South Africa"
+      }
+    },
+    {
+      "code": 3,
+      "name": {
+        "pt": "Albânia",
+        "en": "Albania"
+      }
+    },
+    {
+      "code": 5,
+      "name": {
+        "pt": "Alemanha",
+        "en": "Germany"
+      }
+    },
+    {
+      "code": 6,
+      "name": {
+        "pt": "Andorra",
+        "en": "Andorra"
+      }
+    },
+    {
+      "code": 7,
+      "name": {
+        "pt": "Angola",
+        "en": "Angola"
+      }
+    },
+    {
+      "code": 8,
+      "name": {
+        "pt": "Antígua e Barbuda",
+        "en": "Antigua and Barbuda"
+      }
+    },
+    {
+      "code": 9,
+      "name": {
+        "pt": "Arábia Saudita",
+        "en": "Saudi Arabia"
+      }
+    },
+    {
+      "code": 10,
+      "name": {
+        "pt": "Argélia",
+        "en": "Algeria"
+      }
+    },
+    {
+      "code": 11,
+      "name": {
+        "pt": "Argentina",
+        "en": "Argentina"
+      }
+    },
+    {
+      "code": 12,
+      "name": {
+        "pt": "Austrália",
+        "en": "Australia"
+      }
+    },
+    {
+      "code": 13,
+      "name": {
+        "pt": "Áustria",
+        "en": "Austria"
+      }
+    },
+    {
+      "code": 14,
+      "name": {
+        "pt": "Bahamas",
+        "en": "Bahamas"
+      }
+    },
+    {
+      "code": 15,
+      "name": {
+        "pt": "Barém",
+        "en": "Bahrain"
+      }
+    },
+    {
+      "code": 16,
+      "name": {
+        "pt": "Bangladesh",
+        "en": "Bangladesh"
+      }
+    },
+    {
+      "code": 17,
+      "name": {
+        "pt": "Barbados",
+        "en": "Barbados"
+      }
+    },
+    {
+      "code": 18,
+      "name": {
+        "pt": "Bélgica",
+        "en": "Belgium"
+      }
+    },
+    {
+      "code": 19,
+      "name": {
+        "pt": "Belize",
+        "en": "Belize"
+      }
+    },
+    {
+      "code": 22,
+      "name": {
+        "pt": "Bolívia",
+        "en": "Bolivia"
+      }
+    },
+    {
+      "code": 24,
+      "name": {
+        "pt": "Brasil",
+        "en": "Brazil"
+      }
+    },
+    {
+      "code": 25,
+      "name": {
+        "pt": "Bulgária",
+        "en": "Bulgaria"
+      }
+    },
+    {
+      "code": 29,
+      "name": {
+        "pt": "Cabo Verde",
+        "en": "Cape Verde"
+      }
+    },
+    {
+      "code": 30,
+      "name": {
+        "pt": "Camarões",
+        "en": "Cameroon"
+      }
+    },
+    {
+      "code": 31,
+      "name": {
+        "pt": "Canadá",
+        "en": "Canada"
+      }
+    },
+    {
+      "code": 34,
+      "name": {
+        "pt": "Chéquia",
+        "en": "Czechia"
+      }
+    },
+    {
+      "code": 36,
+      "name": {
+        "pt": "China",
+        "en": "China"
+      }
+    },
+    {
+      "code": 38,
+      "name": {
+        "pt": "Colômbia",
+        "en": "Colombia"
+      }
+    },
+    {
+      "code": 44,
+      "name": {
+        "pt": "Costa Rica",
+        "en": "Costa Rica"
+      }
+    },
+    {
+      "code": 51,
+      "name": {
+        "pt": "El Salvador",
+        "en": "El Salvador"
+      }
+    },
+    {
+      "code": 52,
+      "name": {
+        "pt": "Emirados Árabes Unidos",
+        "en": "United Arab Emirates"
+      }
+    },
+    {
+      "code": 53,
+      "name": {
+        "pt": "Equador",
+        "en": "Ecuador"
+      }
+    },
+    {
+      "code": 54,
+      "name": {
+        "pt": "Espanha",
+        "en": "Spain"
+      }
+    },
+    {
+      "code": 55,
+      "name": {
+        "pt": "Estados Unidos",
+        "en": "United States"
+      }
+    },
+    {
+      "code": 56,
+      "name": {
+        "pt": "Eslováquia",
+        "en": "Slovakia"
+      }
+    },
+    {
+      "code": 57,
+      "name": {
+        "pt": "Eslovénia",
+        "en": "Slovenia"
+      }
+    },
+    {
+      "code": 58,
+      "name": {
+        "pt": "Filipinas",
+        "en": "Philippines"
+      }
+    },
+    {
+      "code": 59,
+      "name": {
+        "pt": "Finlândia",
+        "en": "Finland"
+      }
+    },
+    {
+      "code": 60,
+      "name": {
+        "pt": "França",
+        "en": "France"
+      }
+    },
+    {
+      "code": 61,
+      "name": {
+        "pt": "Gabão",
+        "en": "Gabon"
+      }
+    },
+    {
+      "code": 65,
+      "name": {
+        "pt": "Grécia",
+        "en": "Greece"
+      }
+    },
+    {
+      "code": 66,
+      "name": {
+        "pt": "Guatemala",
+        "en": "Guatemala"
+      }
+    },
+    {
+      "code": 70,
+      "name": {
+        "pt": "Guiné Equatorial",
+        "en": "Equatorial Guinea"
+      }
+    },
+    {
+      "code": 72,
+      "name": {
+        "pt": "Honduras",
+        "en": "Honduras"
+      }
+    },
+    {
+      "code": 73,
+      "name": {
+        "pt": "Hungria",
+        "en": "Hungary"
+      }
+    },
+    {
+      "code": 78,
+      "name": {
+        "pt": "Irlanda",
+        "en": "Ireland"
+      }
+    },
+    {
+      "code": 81,
+      "name": {
+        "pt": "Itália",
+        "en": "Italy"
+      }
+    },
+    {
+      "code": 94,
+      "name": {
+        "pt": "Liechtenstein",
+        "en": "Liechtenstein"
+      }
+    },
+    {
+      "code": 95,
+      "name": {
+        "pt": "Luxemburgo",
+        "en": "Luxembourg"
+      }
+    },
+    {
+      "code": 96,
+      "name": {
+        "pt": "Madagascar",
+        "en": "Madagascar"
+      }
+    },
+    {
+      "code": 101,
+      "name": {
+        "pt": "SMOM (Soberana Ordem Militar de Malta)",
+        "en": "SMOM (Sovereign Military Order of Malta)"
+      }
+    },
+    {
+      "code": 102,
+      "name": {
+        "pt": "Malta",
+        "en": "Malta"
+      }
+    },
+    {
+      "code": 103,
+      "name": {
+        "pt": "Marrocos",
+        "en": "Morocco"
+      }
+    },
+    {
+      "code": 106,
+      "name": {
+        "pt": "México",
+        "en": "Mexico"
+      }
+    },
+    {
+      "code": 108,
+      "name": {
+        "pt": "Mónaco",
+        "en": "Monaco"
+      }
+    },
+    {
+      "code": 115,
+      "name": {
+        "pt": "Noruega",
+        "en": "Norway"
+      }
+    },
+    {
+      "code": 117,
+      "name": {
+        "pt": "Omã",
+        "en": "Oman"
+      }
+    },
+    {
+      "code": 118,
+      "name": {
+        "pt": "Países Baixos",
+        "en": "Netherlands"
+      },
+      "source": "wikipedia-pt"
+    },
+    {
+      "code": 119,
+      "name": {
+        "pt": "Panamá",
+        "en": "Panama"
+      }
+    },
+    {
+      "code": 124,
+      "name": {
+        "pt": "Polónia",
+        "en": "Poland"
+      }
+    },
+    {
+      "code": 125,
+      "name": {
+        "pt": "Catar",
+        "en": "Qatar"
+      }
+    },
+    {
+      "code": 126,
+      "name": {
+        "pt": "Quénia",
+        "en": "Kenya"
+      }
+    },
+    {
+      "code": 127,
+      "name": {
+        "pt": "Reino Unido",
+        "en": "United Kingdom"
+      }
+    },
+    {
+      "code": 128,
+      "name": {
+        "pt": "Roménia",
+        "en": "Romania"
+      }
+    },
+    {
+      "code": 130,
+      "name": {
+        "pt": "Ilhas Salomão",
+        "en": "Solomon Islands"
+      }
+    },
+    {
+      "code": 132,
+      "name": {
+        "pt": "São Marino",
+        "en": "San Marino"
+      }
+    },
+    {
+      "code": 134,
+      "name": {
+        "pt": "Vaticano",
+        "en": "Vatican City"
+      }
+    },
+    {
+      "code": 137,
+      "name": {
+        "pt": "Senegal",
+        "en": "Senegal"
+      }
+    },
+    {
+      "code": 139,
+      "name": {
+        "pt": "Serra Leoa",
+        "en": "Sierra Leone"
+      }
+    },
+    {
+      "code": 140,
+      "name": {
+        "pt": "Singapura",
+        "en": "Singapore"
+      }
+    },
+    {
+      "code": 141,
+      "name": {
+        "pt": "Síria",
+        "en": "Syria"
+      }
+    },
+    {
+      "code": 145,
+      "name": {
+        "pt": "Sudão",
+        "en": "Sudan"
+      }
+    },
+    {
+      "code": 146,
+      "name": {
+        "pt": "Suécia",
+        "en": "Sweden"
+      }
+    },
+    {
+      "code": 147,
+      "name": {
+        "pt": "Suíça",
+        "en": "Switzerland"
+      }
+    },
+    {
+      "code": 148,
+      "name": {
+        "pt": "Suriname",
+        "en": "Suriname"
+      }
+    },
+    {
+      "code": 149,
+      "name": {
+        "pt": "Tailândia",
+        "en": "Thailand"
+      }
+    },
+    {
+      "code": 150,
+      "name": {
+        "pt": "Tanzânia",
+        "en": "Tanzania"
+      }
+    },
+    {
+      "code": 151,
+      "name": {
+        "pt": "Taiwan",
+        "en": "Taiwan"
+      }
+    },
+    {
+      "code": 152,
+      "name": {
+        "pt": "Togo",
+        "en": "Togo"
+      }
+    },
+    {
+      "code": 153,
+      "name": {
+        "pt": "Tonga",
+        "en": "Tonga"
+      }
+    },
+    {
+      "code": 155,
+      "name": {
+        "pt": "Tunísia",
+        "en": "Tunisia"
+      }
+    },
+    {
+      "code": 156,
+      "name": {
+        "pt": "Turquia",
+        "en": "Turkey"
+      }
+    },
+    {
+      "code": 158,
+      "name": {
+        "pt": "Rússia",
+        "en": "Russia"
+      }
+    },
+    {
+      "code": 161,
+      "name": {
+        "pt": "Venezuela",
+        "en": "Venezuela"
+      }
+    },
+    {
+      "code": 194,
+      "name": {
+        "pt": "Palestina",
+        "en": "Palestine"
+      }
+    },
+    {
+      "code": 200,
+      "name": {
+        "pt": "União Europeia",
+        "en": "European Union"
+      }
+    },
+    {
+      "code": 203,
+      "name": {
+        "pt": "Conselho da Europa",
+        "en": "Council of Europe"
+      }
+    }
+  ]
+}

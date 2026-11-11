@@ -1,0 +1,228 @@
+[
+  {
+    "code": "A",
+    "name": {
+      "pt": "Açores (Ponta Delgada)",
+      "en": "Azores (Ponta Delgada)"
+    }
+  },
+  {
+    "code": "AN",
+    "name": {
+      "pt": "Angra do Heroísmo",
+      "en": "Angra do Heroísmo"
+    }
+  },
+  {
+    "code": "AV",
+    "name": {
+      "pt": "Aveiro",
+      "en": "Aveiro"
+    },
+    "photos": [
+      "trailer-av"
+    ]
+  },
+  {
+    "code": "BE",
+    "name": {
+      "pt": "Beja",
+      "en": "Beja"
+    }
+  },
+  {
+    "code": "BG",
+    "name": {
+      "pt": "Bragança",
+      "en": "Bragança"
+    },
+    "verified": false,
+    "note": {
+      "pt": "A edição de 2023 indica BG para Bragança; a Wikipédia indica BN. O código correto está por confirmar.",
+      "en": "The 2023 edition gives BG for Bragança; Wikipedia gives BN. The correct code is unconfirmed."
+    }
+  },
+  {
+    "code": "BN",
+    "name": {
+      "pt": "Bragança",
+      "en": "Bragança"
+    },
+    "verified": false,
+    "note": {
+      "pt": "A edição de 2023 indica BG para Bragança; a Wikipédia indica BN. O código correto está por confirmar.",
+      "en": "The 2023 edition gives BG for Bragança; Wikipedia gives BN. The correct code is unconfirmed."
+    }
+  },
+  {
+    "code": "BR",
+    "name": {
+      "pt": "Braga",
+      "en": "Braga"
+    }
+  },
+  {
+    "code": "C",
+    "name": {
+      "pt": "Coimbra",
+      "en": "Coimbra"
+    },
+    "photos": [
+      "trailer-c"
+    ]
+  },
+  {
+    "code": "CB",
+    "name": {
+      "pt": "Castelo Branco",
+      "en": "Castelo Branco"
+    },
+    "photos": [
+      "trailer-cb"
+    ]
+  },
+  {
+    "code": "D",
+    "name": {
+      "pt": "Corpo Diplomático",
+      "en": "Diplomatic corps"
+    }
+  },
+  {
+    "code": "E",
+    "name": {
+      "pt": "Évora",
+      "en": "Évora"
+    },
+    "photos": [
+      "trailer-e"
+    ]
+  },
+  {
+    "code": "F",
+    "name": {
+      "pt": "Pessoal da Embaixada Diplomática",
+      "en": "Diplomatic embassy staff"
+    }
+  },
+  {
+    "code": "FA",
+    "name": {
+      "pt": "Faro",
+      "en": "Faro"
+    },
+    "photos": [
+      "trailer-fa"
+    ]
+  },
+  {
+    "code": "GD",
+    "name": {
+      "pt": "Guarda",
+      "en": "Guarda"
+    },
+    "photos": [
+      "trailer-gd"
+    ]
+  },
+  {
+    "code": "H",
+    "name": {
+      "pt": "Horta (Açores)",
+      "en": "Horta (Azores)"
+    }
+  },
+  {
+    "code": "L",
+    "name": {
+      "pt": "Lisboa",
+      "en": "Lisbon"
+    },
+    "photos": [
+      "trailer-l-186880",
+      "trailer-l-174771"
+    ]
+  },
+  {
+    "code": "LE",
+    "name": {
+      "pt": "Leiria",
+      "en": "Leiria"
+    },
+    "photos": [
+      "trailer-le"
+    ]
+  },
+  {
+    "code": "M",
+    "name": {
+      "pt": "Madeira (Funchal)",
+      "en": "Madeira (Funchal)"
+    }
+  },
+  {
+    "code": "P",
+    "name": {
+      "pt": "Porto",
+      "en": "Porto"
+    },
+    "photos": [
+      "trailer-p-99176",
+      "trailer-p-101433"
+    ]
+  },
+  {
+    "code": "PT",
+    "name": {
+      "pt": "Portalegre",
+      "en": "Portalegre"
+    }
+  },
+  {
+    "code": "SA",
+    "name": {
+      "pt": "Santarém",
+      "en": "Santarém"
+    }
+  },
+  {
+    "code": "SE",
+    "name": {
+      "pt": "Setúbal",
+      "en": "Setúbal"
+    },
+    "photos": [
+      "trailer-se"
+    ]
+  },
+  {
+    "code": "VC",
+    "name": {
+      "pt": "Viana do Castelo",
+      "en": "Viana do Castelo"
+    },
+    "photos": [
+      "trailer-vc"
+    ]
+  },
+  {
+    "code": "VI",
+    "name": {
+      "pt": "Viseu",
+      "en": "Viseu"
+    },
+    "photos": [
+      "trailer-vi"
+    ]
+  },
+  {
+    "code": "VR",
+    "name": {
+      "pt": "Vila Real",
+      "en": "Vila Real"
+    },
+    "photos": [
+      "trailer-vr"
+    ]
+  }
+]

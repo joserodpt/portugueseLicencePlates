@@ -1,0 +1,7 @@
+{
+  "S": { "zone": { "pt": "Sul (Lisboa)", "en": "South (Lisbon)" }, "series": [ { "from": 0, "letters": "AA" }, { "from": 10000, "letters": "AB" }, { "from": 20000, "letters": "AC" }, { "from": 30000, "letters": "AD" } ] },
+  "N": { "zone": { "pt": "Norte (Porto)", "en": "North (Porto)" }, "series": [ { "from": 0, "letters": "MM" }, { "from": 10000, "letters": "MN" } ] },
+  "C": { "zone": { "pt": "Centro (Coimbra)", "en": "Centre (Coimbra)" }, "series": [ { "from": 0, "letters": "UU" } ] },
+  "A": { "zone": { "pt": "Açores", "en": "Azores" }, "series": [] },
+  "M": { "zone": { "pt": "Madeira", "en": "Madeira" }, "series": [] }
+}

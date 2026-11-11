@@ -1,0 +1,90 @@
+\section{Validation rules}\label{sec:regras}
+
+This section sums up the rules the interactive app uses to decode and validate a
+plate. They are the rules described in this document, written so they can be
+checked. Each problem found has one of three levels:
+
+\begin{description}
+  \item[Impossible] the plate cannot exist under the known rules;
+  \item[Anachronism] the plate can exist, but not in the period its series suggests;
+  \item[Unconfirmed] it depends on a rule or table entry that could not be
+        confirmed by a second source.
+\end{description}
+
+Separators (dashes, spaces, dots) are optional. A plate typed with its format's
+separators is recognised as \emph{exact}; without them, as \emph{possible}. Some
+plates have more than one reading (for example, \plate{AP-12-34} is either a Navy
+car or a Navy trailer), and all of them are shown.
+
+\subsection{1911 series}
+\begin{itemize}
+  \item Format \plate{Z-0} to \plate{Z-00000}, where \plate{Z} is \plate{N},
+        \plate{C}, \plate{S} (1911–1936), \plate{A} or \plate{M} (1918–1962).
+  \item Suffix \plate{-A}: hire car; suffix \plate{-WW}: provisional.
+  \item \plate{MG-000}: Army.
+  \item Conversion to 1937 as in the 1937 section. For the Azores, Madeira, Coimbra
+        from \plate{C-10000} and Lisbon from \plate{S-40000}, the source does not
+        give the target series.
+\end{itemize}
+
+\subsection{1937 series (\plate{XX-00-00})}
+\begin{itemize}
+  \item Zone from the letter group (until the early 1980s), plus the special groups
+        for the islands, regional offices, temporary imports, former colonies and
+        military forces (appendix~\ref{sec:grupos}).
+  \item \plate{Q}, \plate{J}, \plate{CU} and \plate{FD}: anachronism; only used
+        from the early 1980s.
+  \item \plate{K}, \plate{W} and \plate{Y}: impossible.
+\end{itemize}
+
+\subsection{1992 series (\plate{00-00-XX})}
+\begin{itemize}
+  \item \plate{KA}–\plate{KF}: second-hand import (1997);
+        \plate{KG}: private import (1997–1998, unconfirmed); other \plate{K} groups:
+        unconfirmed.
+  \item Groups starting with \plate{W} or \plate{Y}: impossible (reserved for
+        imports, never used).
+  \item \plate{K}, \plate{W} or \plate{Y} as the second letter: impossible.
+\end{itemize}
+
+\subsection{2005 series (\plate{00-XX-00})}
+\begin{itemize}
+  \item \plate{K}, \plate{W} and \plate{Y}: impossible.
+\end{itemize}
+
+\subsection{2020 series (\plate{XX 00 XX})}
+\begin{itemize}
+  \item A vowel in the 2nd or 6th position: impossible, unless either group is a
+        doubled vowel (\plate{AA}, \plate{EE}, \plate{II}, \plate{OO}, \plate{UU}).
+  \item \plate{AA 00 AA}: impossible (reserved, never issued).
+  \item \plate{K}, \plate{W} and \plate{Y}: unconfirmed.
+  \item The assumed issue order is the digits first, then the right group, then
+        the left. It fits the first plate (\plate{AA 01 AA}), but IMT has not
+        published it.
+\end{itemize}
+
+\subsection{Other formats}
+\begin{itemize}
+  \item \textbf{Municipal mopeds} \plate{0-XXX 00-00}: \plate{XXX} must be in the
+        municipality table; an unknown code is impossible.
+  \item \textbf{Civil trailers}: a code from the district office table; with a
+        one-letter code the number has up to 6 digits, with two letters up to 5.
+        For Lisbon, the date is estimated from the table in the trailers section.
+        Bragança has two codes in the sources (\plate{BG} and \plate{BN}); both
+        are unconfirmed.
+  \item \textbf{Military trailers}: \plate{0000-M}, \plate{E-00-00}, \plate{AP-00-00}.
+  \item \textbf{GNR} \plate{GNR X-0000}: an unknown function is impossible.
+  \item \textbf{Export} \plate{00000-X}, where \plate{X} is \plate{L}, \plate{P},
+        \plate{A} or \plate{M}; a digit count other than 5 is unconfirmed.
+  \item \textbf{Diplomatic} \plate{000-CD000}, \plate{000-CC000},
+        \plate{000-FM000}: a country code not in the table is unconfirmed.
+\end{itemize}
+
+\subsection{Words on plates}
+
+The app looks for six-letter words that can be read on an \plate{XX 00 XX} plate
+when the middle digits are read as letters (\plate{0}=O, \plate{1}=I,
+\plate{2}=Z, \plate{3}=E, \plate{4}=A, \plate{5}=S, \plate{6}=G, \plate{7}=T,
+\plate{8}=B, \plate{9}=P). For example, \plate{AB 47 EI} reads “ABATEI”. The
+project's list of 13\,046 Portuguese words gives 3\,321 such plates, but only 510
+follow the vowel rule and can be issued.
