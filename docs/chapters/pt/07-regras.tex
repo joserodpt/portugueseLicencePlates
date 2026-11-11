@@ -1,0 +1,92 @@
+\section{Regras de validação}\label{sec:regras}
+
+Esta secção resume as regras que a aplicação interativa usa para descodificar e
+validar uma matrícula. São as regras descritas neste documento, escritas de forma
+a poderem ser verificadas. Cada problema encontrado tem um de três graus:
+
+\begin{description}
+  \item[Impossível] a matrícula não pode existir segundo as regras conhecidas;
+  \item[Anacronismo] a matrícula pode existir, mas não na época que a série sugere;
+  \item[Por confirmar] depende de uma regra ou entrada de tabela que não foi
+        possível confirmar numa segunda fonte.
+\end{description}
+
+Os separadores (traços, espaços, pontos) não são obrigatórios. Uma matrícula
+escrita com os separadores do formato é reconhecida como \emph{exata}; sem eles,
+como \emph{possível}. Algumas matrículas têm mais de uma leitura (por exemplo,
+\plate{AP-12-34} é um automóvel ou um reboque da Marinha) e todas são apresentadas.
+
+\subsection{Série de 1911}
+\begin{itemize}
+  \item Formato \plate{Z-0} a \plate{Z-00000}, com \plate{Z} = \plate{N}, \plate{C},
+        \plate{S} (1911–1936), \plate{A} ou \plate{M} (1918–1962).
+  \item Sufixo \plate{-A}: aluguer; sufixo \plate{-WW}: provisória.
+  \item \plate{MG-000}: Exército.
+  \item Conversão para 1937 conforme a secção 1937. Para os Açores, a Madeira,
+        Coimbra a partir de \plate{C-10000} e Lisboa a partir de \plate{S-40000} a
+        fonte não indica a série de destino.
+\end{itemize}
+
+\subsection{Série de 1937 (\plate{XX-00-00})}
+\begin{itemize}
+  \item Zona pelo grupo de letras (até ao início dos anos 80) e grupos especiais
+        das ilhas, serviços regionais, importação temporária, antigas colónias e
+        forças militares (anexo~\ref{sec:grupos}).
+  \item \plate{Q}, \plate{J}, \plate{CU} e \plate{FD}: anacronismo; só foram
+        usados a partir do início dos anos 80.
+  \item \plate{K}, \plate{W} e \plate{Y}: impossível.
+\end{itemize}
+
+\subsection{Série de 1992 (\plate{00-00-XX})}
+\begin{itemize}
+  \item \plate{KA}–\plate{KF}: importação em segunda mão (1997);
+        \plate{KG}: importação por particular (1997–1998, por confirmar);
+        outros grupos \plate{K}: por confirmar.
+  \item Grupos começados por \plate{W} ou \plate{Y}: impossível (reservados a
+        importações, nunca usados).
+  \item \plate{K}, \plate{W} ou \plate{Y} na segunda letra: impossível.
+\end{itemize}
+
+\subsection{Série de 2005 (\plate{00-XX-00})}
+\begin{itemize}
+  \item \plate{K}, \plate{W} e \plate{Y}: impossível.
+\end{itemize}
+
+\subsection{Série de 2020 (\plate{XX 00 XX})}
+\begin{itemize}
+  \item Vogal na 2.ª ou na 6.ª posição: impossível, exceto se um dos grupos for
+        uma vogal repetida (\plate{AA}, \plate{EE}, \plate{II}, \plate{OO},
+        \plate{UU}).
+  \item \plate{AA 00 AA}: impossível (reservada, nunca emitida).
+  \item \plate{K}, \plate{W} e \plate{Y}: por confirmar.
+  \item A ordem de atribuição presumida é: algarismos, depois o grupo da direita,
+        depois o da esquerda. É coerente com a primeira matrícula
+        (\plate{AA 01 AA}), mas o IMT não a publicou.
+\end{itemize}
+
+\subsection{Outros formatos}
+\begin{itemize}
+  \item \textbf{Ciclomotores municipais} \plate{0-XXX 00-00}: \plate{XXX} tem de
+        constar da tabela de municípios; código desconhecido: impossível.
+  \item \textbf{Reboques civis}: código da tabela de serviços distritais; com um
+        código de uma letra o número tem até 6 algarismos, com duas letras até 5.
+        Em Lisboa, a data é estimada pela tabela da secção de reboques.
+        Bragança tem dois códigos nas fontes (\plate{BG} e \plate{BN}); ambos
+        ficam por confirmar.
+  \item \textbf{Reboques militares}: \plate{0000-M}, \plate{E-00-00}, \plate{AP-00-00}.
+  \item \textbf{GNR} \plate{GNR X-0000}: função desconhecida: impossível.
+  \item \textbf{Exportação} \plate{00000-X}, com \plate{X} = \plate{L}, \plate{P},
+        \plate{A} ou \plate{M}; um número de algarismos diferente de 5 fica por
+        confirmar.
+  \item \textbf{Diplomáticas} \plate{000-CD000}, \plate{000-CC000},
+        \plate{000-FM000}: código de país fora da tabela fica por confirmar.
+\end{itemize}
+
+\subsection{Palavras nas matrículas}
+
+A aplicação procura palavras de seis letras que se podem ler numa matrícula
+\plate{XX 00 XX}, lendo os algarismos do meio como letras
+(\plate{0}=O, \plate{1}=I, \plate{2}=Z, \plate{3}=E, \plate{4}=A, \plate{5}=S,
+\plate{6}=G, \plate{7}=T, \plate{8}=B, \plate{9}=P). Por exemplo, \plate{AB 47 EI}
+lê-se “ABATEI”. Na lista de 13\,046 palavras do projeto há 3\,321 matrículas
+destas, mas só 510 respeitam a regra das vogais e podem ser emitidas.

@@ -1,0 +1,94 @@
+[
+  {
+    "code": "B",
+    "name": {
+      "pt": "Blindado",
+      "en": "Armoured"
+    }
+  },
+  {
+    "code": "C",
+    "name": {
+      "pt": "Pesado de Transportes Gerais",
+      "en": "Heavy general transport"
+    }
+  },
+  {
+    "code": "E",
+    "name": {
+      "pt": "Função Especial",
+      "en": "Special function"
+    }
+  },
+  {
+    "code": "F",
+    "name": {
+      "pt": "Brigada Fiscal",
+      "en": "Fiscal brigade"
+    },
+    "photos": [
+      "gnr-f"
+    ]
+  },
+  {
+    "code": "G",
+    "name": {
+      "pt": "Ligeiro de Transportes Gerais",
+      "en": "Light general transport"
+    }
+  },
+  {
+    "code": "J",
+    "name": {
+      "pt": "Todo-o-Terreno",
+      "en": "Off-road"
+    },
+    "photos": [
+      "gnr-j"
+    ]
+  },
+  {
+    "code": "L",
+    "name": {
+      "pt": "Ligeiro de Passageiros",
+      "en": "Light passenger"
+    },
+    "photos": [
+      "gnr-l"
+    ]
+  },
+  {
+    "code": "M",
+    "name": {
+      "pt": "Motociclo",
+      "en": "Motorcycle"
+    },
+    "photos": [
+      "gnr-m"
+    ]
+  },
+  {
+    "code": "P",
+    "name": {
+      "pt": "Pesado de Passageiros",
+      "en": "Heavy passenger"
+    }
+  },
+  {
+    "code": "T",
+    "name": {
+      "pt": "Brigada de Trânsito",
+      "en": "Traffic brigade"
+    }
+  },
+  {
+    "code": "V",
+    "name": {
+      "pt": "Ciclomotor",
+      "en": "Moped"
+    },
+    "photos": [
+      "gnr-v"
+    ]
+  }
+]

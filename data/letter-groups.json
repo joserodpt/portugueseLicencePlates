@@ -1,0 +1,440 @@
+{
+  "zones1937": [
+    {
+      "from": "AA",
+      "to": "LZ",
+      "name": {
+        "pt": "Zona de Lisboa",
+        "en": "Lisbon zone"
+      },
+      "source": "pdf-2023"
+    },
+    {
+      "from": "MA",
+      "to": "TZ",
+      "name": {
+        "pt": "Zona do Porto",
+        "en": "Porto zone"
+      },
+      "source": "pdf-2023"
+    },
+    {
+      "from": "UA",
+      "to": "ZZ",
+      "name": {
+        "pt": "Zona de Coimbra (antiga zona Centro)",
+        "en": "Coimbra zone (former Centre zone)"
+      },
+      "source": "pdf-2023"
+    }
+  ],
+  "groups1937": [
+    {
+      "pairs": [
+        "AN"
+      ],
+      "kind": "island",
+      "name": {
+        "pt": "Angra do Heroísmo",
+        "en": "Angra do Heroísmo"
+      },
+      "since": 1962,
+      "source": "pdf-2023"
+    },
+    {
+      "pairs": [
+        "AR",
+        "AS"
+      ],
+      "kind": "island",
+      "name": {
+        "pt": "Ponta Delgada",
+        "en": "Ponta Delgada"
+      },
+      "since": 1962,
+      "source": "pdf-2023"
+    },
+    {
+      "pairs": [
+        "HO"
+      ],
+      "kind": "island",
+      "name": {
+        "pt": "Horta",
+        "en": "Horta"
+      },
+      "since": 1962,
+      "source": "pdf-2023"
+    },
+    {
+      "pairs": [
+        "MA",
+        "MD"
+      ],
+      "kind": "island",
+      "name": {
+        "pt": "Funchal (Madeira)",
+        "en": "Funchal (Madeira)"
+      },
+      "since": 1962,
+      "source": "pdf-2023"
+    },
+    {
+      "pairs": [
+        "TD"
+      ],
+      "kind": "temporary-import",
+      "name": {
+        "pt": "Importação temporária – Ponta Delgada",
+        "en": "Temporary import – Ponta Delgada"
+      },
+      "since": 1962,
+      "style": "red",
+      "source": "pdf-2023"
+    },
+    {
+      "pairs": [
+        "TG"
+      ],
+      "kind": "temporary-import",
+      "name": {
+        "pt": "Importação temporária – Angra do Heroísmo",
+        "en": "Temporary import – Angra do Heroísmo"
+      },
+      "since": 1962,
+      "style": "red",
+      "source": "pdf-2023"
+    },
+    {
+      "pairs": [
+        "TH"
+      ],
+      "kind": "temporary-import",
+      "name": {
+        "pt": "Importação temporária – Horta",
+        "en": "Temporary import – Horta"
+      },
+      "since": 1962,
+      "style": "red",
+      "source": "pdf-2023"
+    },
+    {
+      "pairs": [
+        "TF"
+      ],
+      "kind": "temporary-import",
+      "name": {
+        "pt": "Importação temporária – Funchal",
+        "en": "Temporary import – Funchal"
+      },
+      "since": 1962,
+      "style": "red",
+      "source": "pdf-2023"
+    },
+    {
+      "pairs": [
+        "TE"
+      ],
+      "kind": "temporary-import",
+      "name": {
+        "pt": "Importação temporária – Évora",
+        "en": "Temporary import – Évora"
+      },
+      "since": 1970,
+      "style": "red",
+      "source": "pdf-2023"
+    },
+    {
+      "pairs": [
+        "EM",
+        "EV"
+      ],
+      "kind": "regional",
+      "name": {
+        "pt": "Évora",
+        "en": "Évora"
+      },
+      "since": 1970,
+      "source": "pdf-2023"
+    },
+    {
+      "pairs": [
+        "ZA",
+        "ZB"
+      ],
+      "kind": "regional",
+      "name": {
+        "pt": "Braga",
+        "en": "Braga"
+      },
+      "since": 1970,
+      "source": "pdf-2023"
+    },
+    {
+      "pairs": [
+        "ZC",
+        "ZD"
+      ],
+      "kind": "regional",
+      "name": {
+        "pt": "Vila Real",
+        "en": "Vila Real"
+      },
+      "since": 1970,
+      "source": "pdf-2023"
+    },
+    {
+      "pairs": [
+        "ZE",
+        "ZF"
+      ],
+      "kind": "regional",
+      "name": {
+        "pt": "Aveiro",
+        "en": "Aveiro"
+      },
+      "since": 1970,
+      "source": "pdf-2023"
+    },
+    {
+      "pairs": [
+        "ZG",
+        "ZH"
+      ],
+      "kind": "regional",
+      "name": {
+        "pt": "Guarda",
+        "en": "Guarda"
+      },
+      "since": 1970,
+      "source": "pdf-2023"
+    },
+    {
+      "pairs": [
+        "ZI",
+        "ZL"
+      ],
+      "kind": "regional",
+      "name": {
+        "pt": "Santarém",
+        "en": "Santarém"
+      },
+      "since": 1970,
+      "source": "pdf-2023"
+    },
+    {
+      "pairs": [
+        "ZM",
+        "ZN"
+      ],
+      "kind": "regional",
+      "name": {
+        "pt": "Setúbal",
+        "en": "Setúbal"
+      },
+      "since": 1970,
+      "source": "pdf-2023"
+    },
+    {
+      "pairs": [
+        "ZO",
+        "ZP"
+      ],
+      "kind": "regional",
+      "name": {
+        "pt": "Faro",
+        "en": "Faro"
+      },
+      "since": 1970,
+      "source": "pdf-2023"
+    },
+    {
+      "pairs": [
+        "VZ",
+        "ZO"
+      ],
+      "kind": "ex-colony",
+      "name": {
+        "pt": "Veículo importado das antigas colónias",
+        "en": "Vehicle imported from the former colonies"
+      },
+      "since": 1975,
+      "source": "pdf-2023"
+    },
+    {
+      "pairs": [
+        "ZE",
+        "UZ"
+      ],
+      "kind": "ex-colony",
+      "name": {
+        "pt": "Veículo importado das antigas colónias",
+        "en": "Vehicle imported from the former colonies"
+      },
+      "since": 1975,
+      "verified": false,
+      "source": "pdf-2023"
+    },
+    {
+      "pairs": [
+        "TA"
+      ],
+      "kind": "temporary-import",
+      "name": {
+        "pt": "Importação temporária – Zona de Lisboa",
+        "en": "Temporary import – Lisbon zone"
+      },
+      "style": "red",
+      "source": "wikipedia-pt"
+    },
+    {
+      "pairs": [
+        "TB"
+      ],
+      "kind": "temporary-import",
+      "name": {
+        "pt": "Importação temporária – Zona do Porto",
+        "en": "Temporary import – Porto zone"
+      },
+      "style": "red",
+      "source": "wikipedia-pt"
+    },
+    {
+      "pairs": [
+        "TC"
+      ],
+      "kind": "temporary-import",
+      "name": {
+        "pt": "Importação temporária – Zona de Coimbra",
+        "en": "Temporary import – Coimbra zone"
+      },
+      "style": "red",
+      "source": "wikipedia-pt"
+    },
+    {
+      "pairs": [
+        "CD"
+      ],
+      "kind": "diplomatic",
+      "name": {
+        "pt": "Corpo Diplomático (antes de 1985)",
+        "en": "Diplomatic Corps (before 1985)"
+      },
+      "until": 1985,
+      "style": "diplomatic",
+      "source": "wikipedia-pt"
+    },
+    {
+      "pairs": [
+        "CC"
+      ],
+      "kind": "diplomatic",
+      "name": {
+        "pt": "Corpo Consular (antes de 1985)",
+        "en": "Consular Corps (before 1985)"
+      },
+      "until": 1985,
+      "style": "diplomatic",
+      "source": "wikipedia-pt"
+    },
+    {
+      "pairs": [
+        "FM"
+      ],
+      "kind": "diplomatic",
+      "name": {
+        "pt": "Funcionário em missão diplomática (antes de 1985)",
+        "en": "Official on a diplomatic mission (before 1985)"
+      },
+      "until": 1985,
+      "style": "diplomatic",
+      "source": "wikipedia-pt"
+    },
+    {
+      "pairs": [
+        "EP"
+      ],
+      "kind": "state",
+      "name": {
+        "pt": "Administração Civil do Estado",
+        "en": "State civil administration"
+      },
+      "source": "wikipedia-pt"
+    },
+    {
+      "pairs": [
+        "MG",
+        "ME",
+        "MX"
+      ],
+      "kind": "military",
+      "name": {
+        "pt": "Exército Português",
+        "en": "Portuguese Army"
+      },
+      "source": "pdf-2023"
+    },
+    {
+      "pairs": [
+        "AP"
+      ],
+      "kind": "military",
+      "name": {
+        "pt": "Marinha Portuguesa",
+        "en": "Portuguese Navy"
+      },
+      "source": "pdf-2023"
+    },
+    {
+      "pairs": [
+        "AM"
+      ],
+      "kind": "military",
+      "name": {
+        "pt": "Força Aérea Portuguesa",
+        "en": "Portuguese Air Force"
+      },
+      "source": "pdf-2023"
+    }
+  ],
+  "groups1992": [
+    {
+      "pairs": [
+        "KA",
+        "KB",
+        "KC",
+        "KD",
+        "KE",
+        "KF"
+      ],
+      "kind": "import",
+      "name": {
+        "pt": "Veículo importado em segunda mão (1997)",
+        "en": "Second-hand imported vehicle (1997)"
+      },
+      "since": 1997,
+      "until": 1997,
+      "source": "pdf-2023"
+    },
+    {
+      "pairs": [
+        "KA",
+        "KB",
+        "KC",
+        "KD",
+        "KE",
+        "KF",
+        "KG"
+      ],
+      "kind": "import",
+      "name": {
+        "pt": "Veículo importado por particular (1997–1998)",
+        "en": "Vehicle imported by a private individual (1997–1998)"
+      },
+      "since": 1997,
+      "until": 1998,
+      "verified": false,
+      "source": "pdf-2023"
+    }
+  ]
+}

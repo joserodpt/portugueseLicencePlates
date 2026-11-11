@@ -1,0 +1,7 @@
+[
+  { "from": 25000, "to": 49999, "period": { "pt": "Entre o início de 1973 e o verão de 1979", "en": "Between early 1973 and summer 1979" } },
+  { "from": 50000, "to": 99999, "period": { "pt": "Entre o verão de 1979 e o início de 1990", "en": "Between summer 1979 and early 1990" } },
+  { "from": 100000, "to": 149999, "period": { "pt": "Entre o início de 1990 e março de 2000", "en": "Between early 1990 and March 2000" } },
+  { "from": 150000, "to": 199999, "period": { "pt": "Entre março de 2000 e o início de 2016", "en": "Between March 2000 and early 2016" } },
+  { "from": 200000, "to": null, "period": { "pt": "Depois do início de 2016", "en": "After early 2016" } }
+]

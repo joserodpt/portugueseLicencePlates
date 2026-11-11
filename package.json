@@ -1,0 +1,23 @@
+{
+  "name": "matriculas-portuguesas",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "História das matrículas portuguesas (LaTeX) e descodificador interativo / History of Portuguese licence plates (LaTeX) and interactive decoder",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc --noEmit && vite build",
+    "preview": "vite preview",
+    "test": "vitest run",
+    "test:watch": "vitest",
+    "typecheck": "tsc --noEmit",
+    "docs:tables": "node scripts/gen-tex-tables.mjs",
+    "docs": "node scripts/gen-tex-tables.mjs && node scripts/build-docs.mjs"
+  },
+  "devDependencies": {
+    "@types/node": "^26.6.6",
+    "typescript": "^7.0.2",
+    "vite": "^8.3.8",
+    "vitest": "^5.1.0"
+  }
+}

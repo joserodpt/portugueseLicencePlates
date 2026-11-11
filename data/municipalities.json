@@ -1,0 +1,1244 @@
+[
+  {
+    "code": "ABT",
+    "name": "Abrantes"
+  },
+  {
+    "code": "AGD",
+    "name": "Águeda"
+  },
+  {
+    "code": "AGB",
+    "name": "Aguiar da Beira"
+  },
+  {
+    "code": "ADL",
+    "name": "Alandroal"
+  },
+  {
+    "code": "ABL",
+    "name": "Albergaria-a-Velha"
+  },
+  {
+    "code": "ABF",
+    "name": "Albufeira"
+  },
+  {
+    "code": "ASL",
+    "name": "Alcácer do Sal"
+  },
+  {
+    "code": "ACN",
+    "name": "Alcanena"
+  },
+  {
+    "code": "ACB",
+    "name": "Alcobaça"
+  },
+  {
+    "code": "ACH",
+    "name": "Alcochete"
+  },
+  {
+    "code": "ACT",
+    "name": "Alcoutim"
+  },
+  {
+    "code": "ALQ",
+    "name": "Alenquer"
+  },
+  {
+    "code": "AFE",
+    "name": "Alfândega da Fé"
+  },
+  {
+    "code": "ALJ",
+    "name": "Alijó"
+  },
+  {
+    "code": "AJZ",
+    "name": "Aljezur"
+  },
+  {
+    "code": "AJT",
+    "name": "Aljustrel"
+  },
+  {
+    "code": "ALM",
+    "name": "Almada"
+  },
+  {
+    "code": "ALD",
+    "name": "Almeida"
+  },
+  {
+    "code": "ALR",
+    "name": "Almeirim"
+  },
+  {
+    "code": "ADV",
+    "name": "Almodôvar"
+  },
+  {
+    "code": "APC",
+    "name": "Alpiarça"
+  },
+  {
+    "code": "ALT",
+    "name": "Alter do Chão"
+  },
+  {
+    "code": "AVZ",
+    "name": "Alvaiázere"
+  },
+  {
+    "code": "AVT",
+    "name": "Alvito"
+  },
+  {
+    "code": "AMD",
+    "name": "Amadora"
+  },
+  {
+    "code": "AMT",
+    "name": "Amarante"
+  },
+  {
+    "code": "AMR",
+    "name": "Amares"
+  },
+  {
+    "code": "AND",
+    "name": "Anadia"
+  },
+  {
+    "code": "AGH",
+    "name": "Angra do Heroísmo"
+  },
+  {
+    "code": "ANS",
+    "name": "Ansião"
+  },
+  {
+    "code": "AVV",
+    "name": "Arcos de Valdevez"
+  },
+  {
+    "code": "AGN",
+    "name": "Arganil"
+  },
+  {
+    "code": "AMM",
+    "name": "Armamar"
+  },
+  {
+    "code": "ARC",
+    "name": "Arouca"
+  },
+  {
+    "code": "ARL",
+    "name": "Arraiolos"
+  },
+  {
+    "code": "ARR",
+    "name": "Arronches"
+  },
+  {
+    "code": "ARV",
+    "name": "Arruda dos Vinhos"
+  },
+  {
+    "code": "AVR",
+    "name": "Aveiro"
+  },
+  {
+    "code": "AVS",
+    "name": "Avis"
+  },
+  {
+    "code": "AZB",
+    "name": "Azambuja"
+  },
+  {
+    "code": "BAO",
+    "name": "Baião"
+  },
+  {
+    "code": "BCL",
+    "name": "Barcelos"
+  },
+  {
+    "code": "BRC",
+    "name": "Barrancos"
+  },
+  {
+    "code": "BRR",
+    "name": "Barreiro"
+  },
+  {
+    "code": "BTL",
+    "name": "Batalha"
+  },
+  {
+    "code": "BJA",
+    "name": "Beja"
+  },
+  {
+    "code": "BMT",
+    "name": "Belmonte"
+  },
+  {
+    "code": "BNV",
+    "name": "Benavente"
+  },
+  {
+    "code": "BBR",
+    "name": "Bombarral"
+  },
+  {
+    "code": "BRB",
+    "name": "Borba"
+  },
+  {
+    "code": "BTC",
+    "name": "Boticas"
+  },
+  {
+    "code": "BRG",
+    "name": "Braga"
+  },
+  {
+    "code": "BGC",
+    "name": "Bragança"
+  },
+  {
+    "code": "CBC",
+    "name": "Cabeceiras de Basto"
+  },
+  {
+    "code": "CDV",
+    "name": "Cadaval"
+  },
+  {
+    "code": "CLD",
+    "name": "Caldas da Rainha"
+  },
+  {
+    "code": "CHT",
+    "name": "Calheta (Angra do Heroísmo)"
+  },
+  {
+    "code": "CLT",
+    "name": "Calheta (Funchal)"
+  },
+  {
+    "code": "CML",
+    "name": "Câmara de Lobos"
+  },
+  {
+    "code": "CMN",
+    "name": "Caminha"
+  },
+  {
+    "code": "CMR",
+    "name": "Campo Maior"
+  },
+  {
+    "code": "CNT",
+    "name": "Cantanhede"
+  },
+  {
+    "code": "CRZ",
+    "name": "Carrazeda de Ansiães"
+  },
+  {
+    "code": "CRS",
+    "name": "Carregal do Sal"
+  },
+  {
+    "code": "CTX",
+    "name": "Cartaxo"
+  },
+  {
+    "code": "CSC",
+    "name": "Cascais"
+  },
+  {
+    "code": "CPR",
+    "name": "Castanheira de Pêra"
+  },
+  {
+    "code": "CTB",
+    "name": "Castelo Branco"
+  },
+  {
+    "code": "CPV",
+    "name": "Castelo de Paiva"
+  },
+  {
+    "code": "CVD",
+    "name": "Castelo de Vide"
+  },
+  {
+    "code": "CDR",
+    "name": "Castro Daire"
+  },
+  {
+    "code": "CTM",
+    "name": "Castro Marim"
+  },
+  {
+    "code": "CVR",
+    "name": "Castro Verde"
+  },
+  {
+    "code": "CLB",
+    "name": "Celorico da Beira"
+  },
+  {
+    "code": "CBT",
+    "name": "Celorico de Basto"
+  },
+  {
+    "code": "CHM",
+    "name": "Chamusca"
+  },
+  {
+    "code": "CHV",
+    "name": "Chaves"
+  },
+  {
+    "code": "CNF",
+    "name": "Cinfães"
+  },
+  {
+    "code": "CBR",
+    "name": "Coimbra"
+  },
+  {
+    "code": "CDN",
+    "name": "Condeixa-a-Nova"
+  },
+  {
+    "code": "CTC",
+    "name": "Constância"
+  },
+  {
+    "code": "CCH",
+    "name": "Coruche"
+  },
+  {
+    "code": "CRV",
+    "name": "Corvo"
+  },
+  {
+    "code": "CVL",
+    "name": "Covilhã"
+  },
+  {
+    "code": "CRT",
+    "name": "Crato"
+  },
+  {
+    "code": "CUB",
+    "name": "Cuba"
+  },
+  {
+    "code": "ELV",
+    "name": "Elvas"
+  },
+  {
+    "code": "ENT",
+    "name": "Entroncamento"
+  },
+  {
+    "code": "ESP",
+    "name": "Espinho"
+  },
+  {
+    "code": "EPS",
+    "name": "Esposende"
+  },
+  {
+    "code": "ETR",
+    "name": "Estarreja"
+  },
+  {
+    "code": "ETZ",
+    "name": "Estremoz"
+  },
+  {
+    "code": "EVR",
+    "name": "Évora"
+  },
+  {
+    "code": "FAF",
+    "name": "Fafe"
+  },
+  {
+    "code": "FAR",
+    "name": "Faro"
+  },
+  {
+    "code": "FLG",
+    "name": "Felgueiras"
+  },
+  {
+    "code": "FAL",
+    "name": "Ferreira do Alentejo"
+  },
+  {
+    "code": "FZZ",
+    "name": "Ferreira do Zêzere"
+  },
+  {
+    "code": "FIG",
+    "name": "Figueira da Foz"
+  },
+  {
+    "code": "FCR",
+    "name": "Figueira de Castelo Rodrigo"
+  },
+  {
+    "code": "FVN",
+    "name": "Figueiró dos Vinhos"
+  },
+  {
+    "code": "FAG",
+    "name": "Fornos de Algodres"
+  },
+  {
+    "code": "FEC",
+    "name": "Freixo de Espada à Cinta"
+  },
+  {
+    "code": "FTR",
+    "name": "Fronteira"
+  },
+  {
+    "code": "FUN",
+    "name": "Funchal"
+  },
+  {
+    "code": "FND",
+    "name": "Fundão"
+  },
+  {
+    "code": "GAV",
+    "name": "Gavião"
+  },
+  {
+    "code": "GOI",
+    "name": "Góis"
+  },
+  {
+    "code": "GLG",
+    "name": "Golegã"
+  },
+  {
+    "code": "GDM",
+    "name": "Gondomar"
+  },
+  {
+    "code": "GVA",
+    "name": "Gouveia"
+  },
+  {
+    "code": "GDL",
+    "name": "Grândola"
+  },
+  {
+    "code": "GRD",
+    "name": "Guarda"
+  },
+  {
+    "code": "GMR",
+    "name": "Guimarães"
+  },
+  {
+    "code": "HRT",
+    "name": "Horta"
+  },
+  {
+    "code": "IDN",
+    "name": "Idanha-a-Nova"
+  },
+  {
+    "code": "ILH",
+    "name": "Ílhavo"
+  },
+  {
+    "code": "LGA",
+    "name": "Lagoa"
+  },
+  {
+    "code": "LAG",
+    "name": "Lagoa (Ponta Delgada)"
+  },
+  {
+    "code": "LGS",
+    "name": "Lagos"
+  },
+  {
+    "code": "LJF",
+    "name": "Lajes das Flores"
+  },
+  {
+    "code": "LJP",
+    "name": "Lajes do Pico"
+  },
+  {
+    "code": "LMG",
+    "name": "Lamego"
+  },
+  {
+    "code": "LRA",
+    "name": "Leiria"
+  },
+  {
+    "code": "LSB",
+    "name": "Lisboa"
+  },
+  {
+    "code": "LLE",
+    "name": "Loulé"
+  },
+  {
+    "code": "LRS",
+    "name": "Loures"
+  },
+  {
+    "code": "LNH",
+    "name": "Lourinhã"
+  },
+  {
+    "code": "LSA",
+    "name": "Lousã"
+  },
+  {
+    "code": "LSD",
+    "name": "Lousada"
+  },
+  {
+    "code": "MAC",
+    "name": "Mação"
+  },
+  {
+    "code": "MDC",
+    "name": "Macedo de Cavaleiros"
+  },
+  {
+    "code": "MCH",
+    "name": "Machico"
+  },
+  {
+    "code": "MAD",
+    "name": "Madalena"
+  },
+  {
+    "code": "MFR",
+    "name": "Mafra"
+  },
+  {
+    "code": "MAI",
+    "name": "Maia"
+  },
+  {
+    "code": "MGL",
+    "name": "Mangualde"
+  },
+  {
+    "code": "MTG",
+    "name": "Manteigas"
+  },
+  {
+    "code": "MCN",
+    "name": "Marco de Canaveses"
+  },
+  {
+    "code": "MGR",
+    "name": "Marinha Grande"
+  },
+  {
+    "code": "MRV",
+    "name": "Marvão"
+  },
+  {
+    "code": "MTS",
+    "name": "Matosinhos"
+  },
+  {
+    "code": "MLD",
+    "name": "Mealhada"
+  },
+  {
+    "code": "MDA",
+    "name": "Meda"
+  },
+  {
+    "code": "MLG",
+    "name": "Melgaço"
+  },
+  {
+    "code": "MTL",
+    "name": "Mértola"
+  },
+  {
+    "code": "MSF",
+    "name": "Mesão Frio"
+  },
+  {
+    "code": "MIR",
+    "name": "Mira"
+  },
+  {
+    "code": "MCV",
+    "name": "Miranda do Corvo"
+  },
+  {
+    "code": "MDR",
+    "name": "Miranda do Douro"
+  },
+  {
+    "code": "MDL",
+    "name": "Mirandela"
+  },
+  {
+    "code": "MGD",
+    "name": "Mogadouro"
+  },
+  {
+    "code": "MBR",
+    "name": "Moimenta da Beira"
+  },
+  {
+    "code": "MTA",
+    "name": "Moita"
+  },
+  {
+    "code": "MNC",
+    "name": "Monção"
+  },
+  {
+    "code": "MCQ",
+    "name": "Monchique"
+  },
+  {
+    "code": "MDB",
+    "name": "Mondim de Basto"
+  },
+  {
+    "code": "MFT",
+    "name": "Monforte"
+  },
+  {
+    "code": "MTR",
+    "name": "Montalegre"
+  },
+  {
+    "code": "MMN",
+    "name": "Montemor-o-Novo"
+  },
+  {
+    "code": "MMV",
+    "name": "Montemor-o-Velho"
+  },
+  {
+    "code": "MTJ",
+    "name": "Montijo"
+  },
+  {
+    "code": "MOR",
+    "name": "Mora"
+  },
+  {
+    "code": "MRT",
+    "name": "Mortágua"
+  },
+  {
+    "code": "MRA",
+    "name": "Moura"
+  },
+  {
+    "code": "MOU",
+    "name": "Mourão"
+  },
+  {
+    "code": "MUR",
+    "name": "Murça"
+  },
+  {
+    "code": "MRS",
+    "name": "Murtosa"
+  },
+  {
+    "code": "NZR",
+    "name": "Nazaré"
+  },
+  {
+    "code": "NLS",
+    "name": "Nelas"
+  },
+  {
+    "code": "NIS",
+    "name": "Nisa"
+  },
+  {
+    "code": "NRD",
+    "name": "Nordeste"
+  },
+  {
+    "code": "OBD",
+    "name": "Óbidos"
+  },
+  {
+    "code": "ODM",
+    "name": "Odemira"
+  },
+  {
+    "code": "ODV",
+    "name": "Odivelas"
+  },
+  {
+    "code": "OER",
+    "name": "Oeiras"
+  },
+  {
+    "code": "OLR",
+    "name": "Oleiros"
+  },
+  {
+    "code": "OLH",
+    "name": "Olhão"
+  },
+  {
+    "code": "OAZ",
+    "name": "Oliveira de Azeméis"
+  },
+  {
+    "code": "OFR",
+    "name": "Oliveira de Frades"
+  },
+  {
+    "code": "OBR",
+    "name": "Oliveira do Bairro"
+  },
+  {
+    "code": "OHP",
+    "name": "Oliveira do Hospital"
+  },
+  {
+    "code": "VNO",
+    "name": "Ourém"
+  },
+  {
+    "code": "ORQ",
+    "name": "Ourique"
+  },
+  {
+    "code": "OVR",
+    "name": "Ovar"
+  },
+  {
+    "code": "PFR",
+    "name": "Paços de Ferreira"
+  },
+  {
+    "code": "PLM",
+    "name": "Palmela"
+  },
+  {
+    "code": "PPS",
+    "name": "Pampilhosa da Serra"
+  },
+  {
+    "code": "PRD",
+    "name": "Paredes"
+  },
+  {
+    "code": "PCR",
+    "name": "Paredes de Coura"
+  },
+  {
+    "code": "PGR",
+    "name": "Pedrógão Grande"
+  },
+  {
+    "code": "PCV",
+    "name": "Penacova"
+  },
+  {
+    "code": "PNF",
+    "name": "Penafiel"
+  },
+  {
+    "code": "PCT",
+    "name": "Penalva do Castelo"
+  },
+  {
+    "code": "PNC",
+    "name": "Penamacor"
+  },
+  {
+    "code": "PND",
+    "name": "Penedono"
+  },
+  {
+    "code": "PNL",
+    "name": "Penela"
+  },
+  {
+    "code": "PNI",
+    "name": "Peniche"
+  },
+  {
+    "code": "PRG",
+    "name": "Peso da Régua"
+  },
+  {
+    "code": "PNH",
+    "name": "Pinhel"
+  },
+  {
+    "code": "PBL",
+    "name": "Pombal"
+  },
+  {
+    "code": "PDL",
+    "name": "Ponta Delgada"
+  },
+  {
+    "code": "PTS",
+    "name": "Ponta do Sol"
+  },
+  {
+    "code": "PTB",
+    "name": "Ponte da Barca"
+  },
+  {
+    "code": "PTL",
+    "name": "Ponte de Lima"
+  },
+  {
+    "code": "PSR",
+    "name": "Ponte de Sor"
+  },
+  {
+    "code": "PTG",
+    "name": "Portalegre"
+  },
+  {
+    "code": "PRL",
+    "name": "Portel"
+  },
+  {
+    "code": "PTM",
+    "name": "Portimão"
+  },
+  {
+    "code": "PRT",
+    "name": "Porto"
+  },
+  {
+    "code": "PMS",
+    "name": "Porto de Mós"
+  },
+  {
+    "code": "PMZ",
+    "name": "Porto Moniz"
+  },
+  {
+    "code": "PST",
+    "name": "Porto Santo"
+  },
+  {
+    "code": "PVL",
+    "name": "Póvoa de Lanhoso"
+  },
+  {
+    "code": "PVZ",
+    "name": "Póvoa de Varzim"
+  },
+  {
+    "code": "PVC",
+    "name": "Povoação"
+  },
+  {
+    "code": "PNV",
+    "name": "Proença-a-Nova"
+  },
+  {
+    "code": "RDD",
+    "name": "Redondo"
+  },
+  {
+    "code": "RMZ",
+    "name": "Reguengos de Monsaraz"
+  },
+  {
+    "code": "RSD",
+    "name": "Resende"
+  },
+  {
+    "code": "RBR",
+    "name": "Ribeira Brava"
+  },
+  {
+    "code": "RPN",
+    "name": "Ribeira de Pena"
+  },
+  {
+    "code": "RGR",
+    "name": "Ribeira Grande"
+  },
+  {
+    "code": "RMR",
+    "name": "Rio Maior"
+  },
+  {
+    "code": "SBR",
+    "name": "Sabrosa"
+  },
+  {
+    "code": "SBG",
+    "name": "Sabugal"
+  },
+  {
+    "code": "SMG",
+    "name": "Salvaterra de Magos"
+  },
+  {
+    "code": "SCD",
+    "name": "Santa Comba Dão"
+  },
+  {
+    "code": "SCR",
+    "name": "Santa Cruz"
+  },
+  {
+    "code": "SCG",
+    "name": "Santa Cruz da Graciosa"
+  },
+  {
+    "code": "SCF",
+    "name": "Santa Cruz das Flores"
+  },
+  {
+    "code": "VFR",
+    "name": "Santa Maria da Feira"
+  },
+  {
+    "code": "SMP",
+    "name": "Santa Marta de Penaguião"
+  },
+  {
+    "code": "STN",
+    "name": "Santana"
+  },
+  {
+    "code": "STR",
+    "name": "Santarém"
+  },
+  {
+    "code": "STC",
+    "name": "Santiago do Cacém"
+  },
+  {
+    "code": "STS",
+    "name": "Santo Tirso"
+  },
+  {
+    "code": "SBA",
+    "name": "São Brás de Alportel"
+  },
+  {
+    "code": "SJM",
+    "name": "São João da Madeira"
+  },
+  {
+    "code": "SJP",
+    "name": "São João da Pesqueira"
+  },
+  {
+    "code": "SPS",
+    "name": "São Pedro do Sul"
+  },
+  {
+    "code": "SRP",
+    "name": "São Roque do Pico",
+    "verified": false,
+    "note": {
+      "pt": "A fonte de 2023 atribui o código SRP a São Roque do Pico e a Serpa; o código correto de cada um não foi confirmado.",
+      "en": "The 2023 source gives code SRP to both São Roque do Pico and Serpa; the correct code for each is unconfirmed."
+    }
+  },
+  {
+    "code": "SVC",
+    "name": "São Vicente"
+  },
+  {
+    "code": "SRD",
+    "name": "Sardoal"
+  },
+  {
+    "code": "SAT",
+    "name": "Sátão"
+  },
+  {
+    "code": "SEI",
+    "name": "Seia"
+  },
+  {
+    "code": "SXL",
+    "name": "Seixal"
+  },
+  {
+    "code": "SRN",
+    "name": "Sernancelhe"
+  },
+  {
+    "code": "SRP",
+    "name": "Serpa",
+    "verified": false,
+    "note": {
+      "pt": "A fonte de 2023 atribui o código SRP a São Roque do Pico e a Serpa; o código correto de cada um não foi confirmado.",
+      "en": "The 2023 source gives code SRP to both São Roque do Pico and Serpa; the correct code for each is unconfirmed."
+    }
+  },
+  {
+    "code": "SRT",
+    "name": "Sertã"
+  },
+  {
+    "code": "SSB",
+    "name": "Sesimbra"
+  },
+  {
+    "code": "STB",
+    "name": "Setúbal"
+  },
+  {
+    "code": "SVV",
+    "name": "Sever do Vouga"
+  },
+  {
+    "code": "SLV",
+    "name": "Silves"
+  },
+  {
+    "code": "SNS",
+    "name": "Sines"
+  },
+  {
+    "code": "SNT",
+    "name": "Sintra"
+  },
+  {
+    "code": "SMA",
+    "name": "Sobral de Monte Agraço"
+  },
+  {
+    "code": "SRE",
+    "name": "Soure"
+  },
+  {
+    "code": "SSL",
+    "name": "Sousel"
+  },
+  {
+    "code": "TBU",
+    "name": "Tábua"
+  },
+  {
+    "code": "TBC",
+    "name": "Tabuaço"
+  },
+  {
+    "code": "TRC",
+    "name": "Tarouca"
+  },
+  {
+    "code": "TVR",
+    "name": "Tavira"
+  },
+  {
+    "code": "TBR",
+    "name": "Terras de Bouro"
+  },
+  {
+    "code": "TMR",
+    "name": "Tomar"
+  },
+  {
+    "code": "TND",
+    "name": "Tondela"
+  },
+  {
+    "code": "TMC",
+    "name": "Torre de Moncorvo"
+  },
+  {
+    "code": "TNV",
+    "name": "Torres Novas"
+  },
+  {
+    "code": "TVD",
+    "name": "Torres Vedras"
+  },
+  {
+    "code": "TCS",
+    "name": "Trancoso"
+  },
+  {
+    "code": "TRF",
+    "name": "Trofa"
+  },
+  {
+    "code": "VGS",
+    "name": "Vagos"
+  },
+  {
+    "code": "VLC",
+    "name": "Vale de Cambra"
+  },
+  {
+    "code": "VLN",
+    "name": "Valença"
+  },
+  {
+    "code": "VLG",
+    "name": "Valongo"
+  },
+  {
+    "code": "VLP",
+    "name": "Valpaços"
+  },
+  {
+    "code": "VLS",
+    "name": "Velas"
+  },
+  {
+    "code": "VND",
+    "name": "Vendas Novas"
+  },
+  {
+    "code": "VNT",
+    "name": "Viana do Alentejo"
+  },
+  {
+    "code": "VCT",
+    "name": "Viana do Castelo"
+  },
+  {
+    "code": "VDG",
+    "name": "Vidigueira"
+  },
+  {
+    "code": "VRM",
+    "name": "Vieira do Minho"
+  },
+  {
+    "code": "VPV",
+    "name": "Vila da Praia da Vitória"
+  },
+  {
+    "code": "VLR",
+    "name": "Vila de Rei"
+  },
+  {
+    "code": "VBP",
+    "name": "Vila do Bispo"
+  },
+  {
+    "code": "VCD",
+    "name": "Vila do Conde"
+  },
+  {
+    "code": "VPT",
+    "name": "Vila do Porto"
+  },
+  {
+    "code": "VFL",
+    "name": "Vila Flor"
+  },
+  {
+    "code": "VFX",
+    "name": "Vila Franca de Xira"
+  },
+  {
+    "code": "VFC",
+    "name": "Vila Franca do Campo"
+  },
+  {
+    "code": "VNB",
+    "name": "Vila Nova da Barquinha"
+  },
+  {
+    "code": "VNC",
+    "name": "Vila Nova de Cerveira"
+  },
+  {
+    "code": "VNF",
+    "name": "Vila Nova de Famalicão"
+  },
+  {
+    "code": "VLF",
+    "name": "Vila Nova de Foz Côa"
+  },
+  {
+    "code": "VNG",
+    "name": "Vila Nova de Gaia"
+  },
+  {
+    "code": "VNP",
+    "name": "Vila Nova de Paiva"
+  },
+  {
+    "code": "PRS",
+    "name": "Vila Nova de Poiares"
+  },
+  {
+    "code": "VPA",
+    "name": "Vila Pouca de Aguiar"
+  },
+  {
+    "code": "VRL",
+    "name": "Vila Real"
+  },
+  {
+    "code": "VRS",
+    "name": "Vila Real de Santo António"
+  },
+  {
+    "code": "VVR",
+    "name": "Vila Velha de Ródão"
+  },
+  {
+    "code": "VVD",
+    "name": "Vila Verde"
+  },
+  {
+    "code": "VVC",
+    "name": "Vila Viçosa"
+  },
+  {
+    "code": "VMS",
+    "name": "Vimioso"
+  },
+  {
+    "code": "VNH",
+    "name": "Vinhais"
+  },
+  {
+    "code": "VIS",
+    "name": "Viseu"
+  },
+  {
+    "code": "VIZ",
+    "name": "Vizela"
+  },
+  {
+    "code": "VZL",
+    "name": "Vouzela"
+  }
+]

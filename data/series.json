@@ -1,0 +1,154 @@
+[
+  {
+    "id": "1911",
+    "format": "X-000",
+    "from": "1911-01-01",
+    "to": "1936-12-31",
+    "style": "black",
+    "name": {
+      "pt": "Série X-000 (1911–1936)",
+      "en": "X-000 series (1911–1936)"
+    },
+    "note": {
+      "pt": "Nos Açores e na Madeira (A-000 e M-000, desde 1918) manteve-se até 1962.",
+      "en": "In the Azores and Madeira (A-000 and M-000, from 1918) it lasted until 1962."
+    },
+    "source": "pdf-2023"
+  },
+  {
+    "id": "1937",
+    "format": "XX-00-00",
+    "from": "1937-01-01",
+    "to": "1992-02-29",
+    "style": "black",
+    "name": {
+      "pt": "Série XX-00-00 (1937–1992)",
+      "en": "XX-00-00 series (1937–1992)"
+    },
+    "note": {
+      "pt": "Organizada por zonas até ao início da década de 1980; depois, sequencial a nível nacional. Atribuída até 29/02/1992 (DL 54/2005, art. 3.º); de 1/1/1992 a 29/2/1992 já em chapa branca com eurobanda.",
+      "en": "Organised by zone until the early 1980s, then issued sequentially nationwide. Issued until 29/02/1992 (DL 54/2005, art. 3); from 1/1/1992 to 29/2/1992 already on white plates with the euroband."
+    },
+    "source": "dl-54-2005"
+  },
+  {
+    "id": "1992",
+    "format": "00-00-XX",
+    "from": "1992-03-01",
+    "to": "2005-12-31",
+    "style": "euro",
+    "name": {
+      "pt": "Série 00-00-XX (1992–2005)",
+      "en": "00-00-XX series (1992–2005)"
+    },
+    "note": {
+      "pt": "Atribuída desde 01/03/1992 (DL 54/2005, art. 3.º). Até 31/12/1997 sem barra amarela; a partir de 1/1/1998 com a barra do ano e mês da primeira matrícula.",
+      "en": "Issued from 01/03/1992 (DL 54/2005, art. 3). Up to 31/12/1997 without the yellow band; from 1/1/1998 with the band showing the year and month of first registration."
+    },
+    "source": "dl-54-2005"
+  },
+  {
+    "id": "2005",
+    "format": "00-XX-00",
+    "from": "2005-01-01",
+    "to": "2020-03-02",
+    "style": "euro-date",
+    "name": {
+      "pt": "Série 00-XX-00 (2005–2020)",
+      "en": "00-XX-00 series (2005–2020)"
+    },
+    "source": "pdf-2023"
+  },
+  {
+    "id": "2020",
+    "format": "XX 00 XX",
+    "from": "2020-03-03",
+    "to": null,
+    "style": "euro-2020",
+    "name": {
+      "pt": "Série XX 00 XX (desde 2020)",
+      "en": "XX 00 XX series (since 2020)"
+    },
+    "note": {
+      "pt": "Espaços em vez de traços e sem barra amarela.",
+      "en": "Spaces instead of dashes, and no yellow band."
+    },
+    "source": "imt-2020"
+  },
+  {
+    "id": "moto-municipal",
+    "format": "0-XXX-00-00",
+    "from": null,
+    "to": "2006-12-31",
+    "style": "yellow",
+    "name": {
+      "pt": "Ciclomotores e motociclos até 50 cc, matrícula municipal (até 2006)",
+      "en": "Mopeds and motorcycles up to 50 cc, municipal plate (until 2006)"
+    },
+    "note": {
+      "pt": "XXX é o código do município. Substituídas entre 2006 e 2008.",
+      "en": "XXX is the municipality code. Replaced between 2006 and 2008."
+    },
+    "source": "pdf-2023"
+  },
+  {
+    "id": "trailer-civil",
+    "format": "X-000000 / XX-00000",
+    "from": null,
+    "to": null,
+    "style": "euro",
+    "name": {
+      "pt": "Reboque civil",
+      "en": "Civil trailer"
+    },
+    "source": "pdf-2023"
+  },
+  {
+    "id": "trailer-military",
+    "format": "0000-M / E-00-00 / AP-00-00",
+    "from": null,
+    "to": null,
+    "style": "euro",
+    "name": {
+      "pt": "Reboque militar",
+      "en": "Military trailer"
+    },
+    "source": "pdf-2023"
+  },
+  {
+    "id": "gnr",
+    "format": "GNR X-0000",
+    "from": null,
+    "to": null,
+    "style": "euro",
+    "name": {
+      "pt": "Guarda Nacional Republicana",
+      "en": "National Republican Guard (GNR)"
+    },
+    "source": "pdf-2023"
+  },
+  {
+    "id": "export",
+    "format": "00000-X",
+    "from": null,
+    "to": null,
+    "style": "export",
+    "name": {
+      "pt": "Veículo para exportação",
+      "en": "Vehicle for export"
+    },
+    "source": "wikipedia-pt"
+  },
+  {
+    "id": "diplomatic",
+    "format": "000-CD000",
+    "from": "1985-01-01",
+    "to": null,
+    "style": "diplomatic",
+    "name": {
+      "pt": "Corpo diplomático (desde 1985)",
+      "en": "Diplomatic (since 1985)"
+    },
+    "source": "pdf-2023"
+  }
+]

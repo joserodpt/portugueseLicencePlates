@@ -1,0 +1,6 @@
+[
+  { "code": "L", "name": { "pt": "Lisboa", "en": "Lisbon" } },
+  { "code": "P", "name": { "pt": "Porto", "en": "Porto" } },
+  { "code": "A", "name": { "pt": "Açores", "en": "Azores" } },
+  { "code": "M", "name": { "pt": "Madeira", "en": "Madeira" } }
+]
